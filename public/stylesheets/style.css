@@ -1,0 +1,53 @@
+html,
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: #efefef;
+    color: #666666;
+}
+
+.fieldinput {
+    display: flex;
+    background-color: #fff !important;
+    border: 1px solid #eee;
+}
+
+.pagecontent {
+    padding-top: 70px;
+}
+
+.itemLabel {
+    text-align: center;
+    padding: 15px 10px;
+    background-color: #666;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.resizeNone {
+    resize: none !important;
+}
+
+.mybutton {
+    background-color: #666;
+}
+
+.mybuttonUpload {
+    background-color: #666 !important;
+    color: #fff !important;
+    font-family: 'Roboto' !important;
+}
+
+.dashBorder{
+    border: 1px dashed #666;
+    height: 200px;
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    background-color: #fff;
+}
